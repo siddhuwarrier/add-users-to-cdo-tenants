@@ -1,0 +1,9 @@
+cdo_base_url = "<https://www.defenseorchestrator.com|https://www.defenseorchestrator.eu|https://apj.cdo.cisco.com"
+cdo_api_token = "<replace-with-api-token-for-your-tenant>"
+
+user_details = {
+    "nehru@india.gov.in" = "ROLE_SUPER_ADMIN",
+    "patel@india.gov.in" = "ROLE_ADMIN",
+    "azad@india.gov.in" = "ROLE_READ_ONLY"
+    "jinnah@pakistan.gov.pk" = "ROLE_ADMIN"
+}
